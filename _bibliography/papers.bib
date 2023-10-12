@@ -1,0 +1,77 @@
+---
+---
+
+@string{aps = {American Physical Society,}}
+
+@inproceedings{limbu2023team,
+  abbr={IROS 2023},
+  bibtex_show={true},
+  title={Team coordination on graphs with state-dependent edge costs},
+  author={Limbu, Manshi and Hu, Zechen and Oughourli, Sara and Wang, Xuan and Xiao, Xuesu and Shishika, Daigo},
+  abstract={This paper studies a team coordination problem
+in a graph environment. Specifically, we incorporate “support”
+action which an agent can take to reduce the cost for its
+teammate to traverse some high cost edges. Due to this added
+feature, the graph traversal is no longer a standard multi-agent
+path planning problem. To solve this new problem, we propose
+a novel formulation that poses it as a planning problem in a
+joint state space: the joint state graph (JSG). Since the edges
+of JSG implicitly incorporate the support actions taken by the
+agents, we are able to now optimize the joint actions by solving a
+standard single-agent path planning problem in JSG. One main
+drawback of this approach is the curse of dimensionality in both
+the number of agents and the size of the graph. To improve
+scalability in graph size, we further propose a hierarchical
+decomposition method to perform path planning in two levels.
+We provide both theoretical and empirical complexity analyses
+to demonstrate the efficiency of our two algorithms.},
+  booktitle={20230 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+  year={2023},
+  organization={IEEE},
+  selected={true},
+  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
+  pdf={TBAM_IROS_2023_paper.pdf},
+  poster={TBAM_IROS_2023_Poster.pdf},
+  code={https://github.com/RobotiXX/team-coordination},
+}
+
+
+@inproceedings{limbu2023team,
+  abbr={ICRA 2023},
+  bibtex_show={false},
+  title={Human-robot teaming on graphs with state-dependent edge cost.},
+  author={Limbu, Manshi and Hu, Zechen and Oughourli, Sara and Wang, Xuan and Xiao, Xuesu and Shishika, Daigo},
+  abstract={We are interested in designing coordinated group motion,
+where the safety or cost for one agent to move from one
+location to another may depend on the support provided by
+its teammate. For example, consider a scenario where a team
+of human and robot must traverse an environment with some
+“risk” edges as shown in Fig. 1. Those risks might represent
+actions such as going up a ladder, crossing a "shaky" bridge,
+or walking through a dark tunnel. In these situations, a human
+(or robot) teammate can support the other by holding the
+ladder, stabilizing the bridge, or lighting up the tunnel. We
+capture the feasibility of these "supporting" actions in the
+green dashed arrows in Fig. 1, extending from the nodes
+from which the support can be provided. The core questions
+we seek to answer are: (i) when such support/coordination
+is beneficial, and (ii) how to best coordinate the actions as
+a team to minimize the overall cost.
+We formulate a problem that incorporates support actions
+to a minimum-cost graph traversal problem. We then propose
+a solution approach based on the notion of joint state graph
+(JSG) formulation, converting the problem into single-agent
+path planning. To address the curse of dimensionality, a
+hierarchical decomposition method based on Critical Joint
+State Graph (CJSG) is introduced for two-level planning.
+Complexity and statistical analyses demonstrate the efficacy
+of our algorithm.},
+  booktitle={3rd RT-DUNE IEEE/RAS International Conference on Robotics and Automation (ICRA) Workshop},
+  year={2023},
+  organization={IEEE},
+  selected={true},
+  pdf={Human_robot_teaming_on_graphs_with_risky_edges_paper.pdf},
+  poster={Human_robot_teaming_on_graphs_with_risky_edges_poster.pdf},
+}
+
+
