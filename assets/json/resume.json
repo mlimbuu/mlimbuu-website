@@ -96,10 +96,16 @@
     }
   ],
   "awards": [
+     {
+      "title": "Best Paper Finalist (Top 4) in Cognitive Robotics",
+      "date": "2023-10-03",
+      "awarder": "IEEE/RSJ IROS 2023",
+      "summary": ""
+    },
     {
-      "title": "IROS Travel Grant 2023",
+      "title": "IROS Travel Grant",
       "date": "2023-09-03",
-      "awarder": "IEEE IROS 2023",
+      "awarder": "IEEE/RSJ IROS 2023",
       "summary": ""
     },
     {
@@ -111,7 +117,7 @@
     {
       "title": "First Position Barn Challenge Competition",
       "date": "2023-04-10",
-      "awarder": "CS 688: Autonomous Robotics",
+      "awarder": "CS 685: Autonomous Robotics",
       "summary": ""
     },
     {
