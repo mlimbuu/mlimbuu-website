@@ -4,7 +4,7 @@ date: 2023-11-21
 inline: true
 related_posts: false
 ---
-Passed PhD Qualifying Exams!!
+Passed PhD Comprehensive Exams!!
 
 <!-- ---
 layout: post
