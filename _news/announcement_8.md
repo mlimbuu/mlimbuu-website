@@ -4,7 +4,7 @@ date: 2023-11-21
 inline: true
 related_posts: false
 ---
-Passed the <a href="https://cs.gmu.edu/current-students/doctoral-students/comprehensive-exam-new/"> CS PhD Comprehensive Exams! </a>
+Passed <a href="https://cs.gmu.edu/current-students/doctoral-students/comprehensive-exam-new/"> CS PhD Comprehensive Exams! </a>
 
 <!-- ---
 layout: post
