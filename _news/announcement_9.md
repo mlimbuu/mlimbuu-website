@@ -4,7 +4,7 @@ date: 2023-11-21
 inline: true
 related_posts: false
 ---
-Passed Our Paper "Team Coordination on Graphs Using Reinforcement Learning" accepted at <a href="https://2024.ieee-icra.org/">ICRA 2024!</a>
+Our Paper "Team Coordination on Graphs Using Reinforcement Learning" accepted at <a href="https://2024.ieee-icra.org/">ICRA 2024!</a>
 
 <!-- ---
 layout: post
