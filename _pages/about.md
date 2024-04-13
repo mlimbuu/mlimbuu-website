@@ -27,6 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 <!-- 
 My research interests are machine learning and reinforcement learning on graphs for multi-agents. My current research is focused on developing algorithmns to optimize strategic coordination/cooperation among goal oriented multi- agents using graph neural networks and multi-agent reinforcement Learning. I’m also interested in improving generalization and sample efficiency of learning agents, with focus on transfer learning and meta learning to optimize agents adaptibility to new tasks and environments.
 -->
+
 I'm 3rd year Computer Science PhD Student at George Mason University, where I'm advised by [Prof. Dr Xuesu Xiao](https://cs.gmu.edu/~xiao/) at [Robotixx Lab](https://cs.gmu.edu/~xiao/RobotiXX/lab.html). 
 >\
 My research interests are machine learning and reinforcement learning on graphs for multi-agents. My current research is focused on developing algorithmns to optimize strategic coordination/cooperation among goal oriented multi- agents using graph neural networks and multi-agent reinforcement Learning. I'm also interested in improving generalization and sample efficiency of learning agents, to optimize agents adaptibility to new tasks and environments.   
