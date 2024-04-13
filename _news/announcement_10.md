@@ -4,7 +4,7 @@ date: 2024-03-22
 inline: true
 related_posts: false
 ---
-Awarded <a href="https://2024.ieee-icra.org/registration-travel/">ICRA RAS Travel Grant!</a> to attend ICRA 2024.
+Awarded <a href="https://2024.ieee-icra.org/registration-travel/">ICRA RAS Travel Grant</a> to attend ICRA 2024.
 
 <!-- ---
 layout: post
