@@ -4,7 +4,7 @@ date: 2024-01-29
 inline: true
 related_posts: false
 ---
-Our Paper "Scaling Team Coordination on Graphs Using Reinforcement Learning" accepted at <a href="https://2024.ieee-icra.org/">ICRA 2024!</a>
+Our Paper "Scaling Team Coordination on Graphs with Reinforcement Learning" accepted at <a href="https://2024.ieee-icra.org/">ICRA 2024!</a>
 
 <!-- ---
 layout: post
