@@ -24,9 +24,11 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-
+<!-- 
+My research interests are machine learning and reinforcement learning on graphs for multi-agents. My current research is focused on developing algorithmns to optimize strategic coordination/cooperation among goal oriented multi- agents using graph neural networks and multi-agent reinforcement Learning. I’m also interested in improving generalization and sample efficiency of learning agents, with focus on transfer learning and meta learning to optimize agents adaptibility to new tasks and environments.
+-->
 I'm 3rd year Computer Science PhD Student at George Mason University, where I'm advised by [Prof. Dr Xuesu Xiao](https://cs.gmu.edu/~xiao/) at [Robotixx Lab](https://cs.gmu.edu/~xiao/RobotiXX/lab.html). 
-
+>\
 My research interests are machine learning and reinforcement learning on graphs for multi-agents. My current research is focused on developing algorithmns to optimize strategic coordination/cooperation among goal oriented multi- agents using graph neural networks and multi-agent reinforcement Learning. I'm also interested in improving generalization and sample efficiency of learning agents, to optimize agents adaptibility to new tasks and environments.   
 
 Previously I worked at [Fusemachines](https://fusemachines.com/) as Software/Devops Engineer. I completed my BS in Electronics and Communication Engineering from Tribhuvan University, Nepal.
